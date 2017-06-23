@@ -4,4 +4,4 @@ Desc
 
 ## Canonical Source
 
-[https://git.knowbl.co/dev/ethics](https://git.knowbl.co/dev/ethics)
+The canonical source of Ethics is hosted on [https://git.knowbl.co/dev/ethics](https://git.knowbl.co/dev/ethics)
